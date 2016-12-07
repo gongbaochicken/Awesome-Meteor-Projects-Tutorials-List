@@ -9,22 +9,29 @@ As a starter, the best thing we can do is to understand the core parts of the us
 * [Meteor](https://www.meteor.com/) <br>
 Meteor Official Website
 
-* [Udemy:Meteor and React for Realtime Apps](https://www.udemy.com/meteor-react-tutorial/learn/v4/overview) </br>
-Udemy:Meteor and React for Realtime Apps by Stephen Grider
-
 * [Udemy:Learn MeteorJS By Building 10 Real World Projects](https://www.udemy.com/learn-meteorjs-by-building-10-real-world-projects/learn/v4/overview) </br>
-Learn MeteorJS By Building 10 Real World Projects by Eduonix Learning Soultions
+This is very claasic and practicalLearn MeteorJS By Building 10 Real World Projects by Eduonix Learning Soultions
 
-## Boilerplate
+* [Udemy:Meteor and React for Realtime Apps](https://www.udemy.com/meteor-react-tutorial/learn/v4/overview) </br>
+Meteor and React for Realtime Apps by Stephen Grider
+
+## Boilerplates:
+Boilerplates can help you to init your project and save you lots of time, if you know the basic kits.
+
+* [Meteorhack](https://github.com/gongbaochicken/Meteorhack) <br>
+Meteorhack is a kickstart boilerplate for Meteor, React and React-Router users. If you know some knowledge of Meteor and React, you will feel tt is very easy. This ready-to-go boilerplate can save precious time for users, especially hackathon coders, enabling them to focus on the major app functionalities.
+
+* [kickstart-meteor-react](https://github.com/thereactivestack-legacy/kickstart-meteor-react) <br>
+Kickstart a barebone project with Meteor and React, with pretty good reputation. You can also make it works with iOS or Android.
+
 * [Meteor Kitchen](http://www.meteorkitchen.com/examples) <br>
 Meteor Kitchen
 
-* [Iron-cli](https://github.com/iron-meteor/iron-cli) <br>
-Iron-cli
-
-
 ## Interesting Demo and Trending Projects:
-Feel hard to start the above big project? Maybe you can start with the following ones.
+Feel hard to start some big project? Maybe you can start with or join the following ones. 
+
+* [React Hue](https://github.com/gongbaochicken/React-Hue) <br>
+A flat color and material color palette tool built with Meteor and React. It is an easy demo to get started with.
 
 * [codemirror](https://github.com/perak/codemirror)
 CodeMirror packaged for Meteor. CodeMirror is a versatile text editor implemented in JavaScript for the browser.
@@ -35,9 +42,6 @@ Tinder Cards for React Native
 * [Relly](http://reel.ly) <br>
 Single page application for videographers.
 
-* [React Hue](https://github.com/gongbaochicken/React-Hue) <br>
-A flat color and material color palette tool built with Meteor and React. It is an easy demo to get started with.
-
 * [Tutorial](http://www.itjiaoshou.com/meteor-react-layout-and-flow-router-study.html) <br>
 
 * [Meteoris](https://github.com/meteoris/meteoris) <br>
@@ -45,7 +49,8 @@ Meteoris is a Realtime MVC + Modular Javascript Framework based on Meteor 1.2.0
 
 
 ## Super Star Projects (>= 1K stars):
-Trello-
+Trello
+
 Telescope - a hacker-news clone built entirely on Meteor.
 
 * [pinTask](https://pintask.me/) <br>
@@ -56,6 +61,3 @@ Effective meeting tools with powerful integration
 
 * [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <br>
 A Slack like online chat tool, built with Meteor.
-
-
-## Useful Q&A in StackOverflow
