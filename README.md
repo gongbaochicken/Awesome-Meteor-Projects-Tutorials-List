@@ -49,9 +49,11 @@ Meteoris is a Realtime MVC + Modular Javascript Framework based on Meteor 1.2.0
 
 
 ## Super Star Projects (>= 1K stars):
-Trello
+* [Wekan](https://github.com/wekan/wekan) <br>
+The open-source Trello-like kanban built with Meteor.
 
-Telescope - a hacker-news clone built entirely on Meteor.
+* [Telescope](http://www.telescopeapp.org/) <br>
+A hacker-news clone built entirely on Meteor, and they recently have two distinct versions of Telescope: Nova and Legacy. Please checkout on their website.
 
 * [pinTask](https://pintask.me/) <br>
 Task tracker with Kanban board.
