@@ -1,19 +1,19 @@
 # Awesome-Meteor-Projects-Tutorials-List
 A concise list of Interesting Meteor Projects and Awesome Tutorials
 
-Why do you need this? This is a concise but useful list for a Meteor starter user. These references are arranged in order which may help you to get started without much full-stack experience step by step, under the hood of Meteor.js.
+Why do you need this? This is a concise but useful list for Meteor.js starter users. These references are well-arranged in order, which may help you to get started without much full-stack experience step by step, under the hood of Meteor.js.
 
 ## Very useful tutorials
-As a starter, the best thing we can do is to understand the core parts of the useful documents in a short time. 
+As a starter, the best thing we can do is to understand the core parts of the useful documents in a short time, before we get our hands dirty. 
 
 * [Meteor](https://www.meteor.com/) <br>
 Meteor Official Website
 
 * [Udemy:Learn MeteorJS By Building 10 Real World Projects](https://www.udemy.com/learn-meteorjs-by-building-10-real-world-projects/learn/v4/overview) </br>
-This is very claasic and practicalLearn MeteorJS By Building 10 Real World Projects by Eduonix Learning Soultions
+This is very claasic and practicalLearn MeteorJS By Building 10 Real World Projects by Eduonix Learning Soultions. Since this was published before Meteor supported React, the contents in this tutorial is all about Blaze style Meteor.
 
 * [Udemy:Meteor and React for Realtime Apps](https://www.udemy.com/meteor-react-tutorial/learn/v4/overview) </br>
-Meteor and React for Realtime Apps by Stephen Grider
+Meteor and React for Realtime Apps by Stephen Grider. I learned this course because I feel that React is too hot to avoid learning it, leanring React with powerful Meteor might be a good move. Thanks to Stephen, this is really helpful.
 
 * [Meteor Performance 101](https://kadira.io/academy/meteor-performance-101) </br>
 This is a GREAT post about what you need to do if you want to boost the performance of your web built with Meteor.js. After reading this post, I solved a few of key performance issues I encounterd when I built my first Meteor app (http://dukemarket.heroku.com). Anyway, this is really worthy reading, for the specific improvement of meteor project and other general concept.
