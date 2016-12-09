@@ -1,7 +1,7 @@
 # Awesome-Meteor-Projects-Tutorials-List
 A concise list of Interesting Meteor Projects and Awesome Tutorials
 
-中文版， 请移步： 
+Why do you need this? This is a concise but useful list for a Meteor starter user. These references are arranged in order which may help you to get started without much full-stack experience step by step, under the hood of Meteor.js.
 
 ## Very useful tutorials
 As a starter, the best thing we can do is to understand the core parts of the useful documents in a short time. 
@@ -15,6 +15,9 @@ This is very claasic and practicalLearn MeteorJS By Building 10 Real World Proje
 * [Udemy:Meteor and React for Realtime Apps](https://www.udemy.com/meteor-react-tutorial/learn/v4/overview) </br>
 Meteor and React for Realtime Apps by Stephen Grider
 
+* [Meteor Performance 101](https://kadira.io/academy/meteor-performance-101) </br>
+This is a GREAT post about what you need to do if you want to boost the performance of your web built with Meteor.js. After reading this post, I solved a few of key performance issues I encounterd when I built my first Meteor app (http://dukemarket.heroku.com). Anyway, this is really worthy reading, for the specific improvement of meteor project and other general concept.
+
 ## Boilerplates:
 Boilerplates can help you to init your project and save you lots of time, if you know the basic kits.
 
@@ -25,7 +28,7 @@ Meteorhack is a kickstart boilerplate for Meteor, React and React-Router users. 
 Kickstart a barebone project with Meteor and React, with pretty good reputation. You can also make it works with iOS or Android.
 
 * [Meteor Kitchen](http://www.meteorkitchen.com/examples) <br>
-Meteor Kitchen
+Meteor Kitchen is a code generator for Meteor.js, where the input is json configuration file, and the output is the code framework or piece you need. Very interesting. And the blogs on this website are also worth reading.
 
 ## Interesting Demo and Trending Projects:
 Feel hard to start some big project? Maybe you can start with or join the following ones. 
